@@ -23,6 +23,30 @@ Template undangan digital modern untuk acara **Buka Puasa Bersama** (Iftar). Dib
 
 ---
 
+## 📸 Preview
+
+### 🏠 Hero Section
+Tampilan pembukaan undangan dengan nama perusahaan, judul acara, dan desain glassmorphism yang elegan.
+
+![Hero Section](docs/screenshots/hero.png)
+
+### 📅 Detail Acara
+Informasi waktu dan lokasi acara dengan desain card yang bersih dan link ke Google Maps.
+
+![Event Details](docs/screenshots/event-details.png)
+
+### 🖼️ Galeri Foto
+Grid responsif menampilkan foto-foto bertema Ramadhan dan kebersamaan.
+
+![Gallery](docs/screenshots/gallery.png)
+
+### 📝 Formulir RSVP
+Modal konfirmasi kehadiran multi-step — pilih jumlah tamu, isi nama, dan konfirmasi pembayaran.
+
+![RSVP Form](docs/screenshots/rsvp.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **React 19** + **TypeScript**
